@@ -1,1 +1,0 @@
-# webcam-b-v1
