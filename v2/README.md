@@ -3,7 +3,7 @@
 ## Requirements libraries
 - time
 - requests
-- opencv/cv2
+- cv2
 - os
 - socket
 - pyautogui
