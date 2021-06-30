@@ -7,13 +7,11 @@
 - os
 - socket
 - pyautogui
-- keyboard
 - threading
 #  Libraries Installation
   ```bash
   -pip install pyautogui
   -pip install random
-  -pip install keyboard
   -pip install opencv-python
   ```
 
