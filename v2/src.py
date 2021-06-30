@@ -13,8 +13,8 @@ except:
     #os.system('pip install keyboard')
     os.system('pip install threading')
     os.system('pip install opencv-python')
-id = '1176768638'#telegram channel id
-token = '1873367476:AAF3lHwmT1O4Phv3TouIaHFEFeU1kDG3iQ8'#telegram bot token
+id = ''#telegram channel id
+token = ''#telegram bot token
 error, x, ver, ip, img_counter = 0, '', '', '', 0
 def m():
     error = 0
